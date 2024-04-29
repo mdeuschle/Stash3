@@ -13,6 +13,7 @@
 		A8FA45212BDF538D00872369 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8FA45202BDF538D00872369 /* Preview Assets.xcassets */; };
 		A8FA452C2BDF538D00872369 /* Stash_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8FA452B2BDF538D00872369 /* Stash_AppTests.swift */; };
 		A8FA45372BDF538D00872369 /* Stash_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8FA45362BDF538D00872369 /* Stash_AppUITests.swift */; };
+		A8FA45502BDF55EE00872369 /* MyFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8FA454F2BDF55EE00872369 /* MyFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		A8FA45322BDF538D00872369 /* Stash_AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Stash_AppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8FA45362BDF538D00872369 /* Stash_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stash_AppUITests.swift; sourceTree = "<group>"; };
 		A8FA45382BDF538D00872369 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8FA454F2BDF55EE00872369 /* MyFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				A8FA45192BDF538600872369 /* Stash_AppApp.swift */,
 				A8FA451B2BDF538600872369 /* ContentView.swift */,
 				A8FA451D2BDF538D00872369 /* Assets.xcassets */,
+				A8FA454F2BDF55EE00872369 /* MyFile.swift */,
 				A8FA45222BDF538D00872369 /* Info.plist */,
 				A8FA451F2BDF538D00872369 /* Preview Content */,
 			);
@@ -261,6 +264,7 @@
 			files = (
 				A8FA451C2BDF538600872369 /* ContentView.swift in Sources */,
 				A8FA451A2BDF538600872369 /* Stash_AppApp.swift in Sources */,
+				A8FA45502BDF55EE00872369 /* MyFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

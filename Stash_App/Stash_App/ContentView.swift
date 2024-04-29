@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    let myFile = [MyFile]()
     var body: some View {
         Text("Hello, world!")
             .padding()
